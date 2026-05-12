@@ -1,3 +1,1 @@
-<?php
-echo "PHP localhost working!";
-?>
+<?php echo "PHP working"; ?>
